@@ -385,7 +385,7 @@ header .mobile {
     padding-top: 1rem;
     margin: auto;
   }
-  #quotes-section .content {
+  #quotes-section .content .center {
     padding: 5rem 0;
   }
 
