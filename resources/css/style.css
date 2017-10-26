@@ -385,7 +385,9 @@ header .mobile {
     padding-top: 1rem;
     margin: auto;
   }
-}
+  #quotes-section .content {
+    padding: 5rem 0;
+  }
 
 /* Footer */
 
