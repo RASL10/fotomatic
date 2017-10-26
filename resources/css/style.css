@@ -118,7 +118,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
-  background-image: url("../resources/images/banner-landingpage.jpg");
+  background-image: url("../images/banner-landingpage.jpg");
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -249,6 +249,10 @@ header .mobile {
   line-height: 1.2;
   font-weight: 300;
   color: #4a4a4a;
+}
+
+.feature .content {
+  padding: 2.5rem 0;
 }
 
 @media only screen and (max-width: 890px) {
