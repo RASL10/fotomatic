@@ -371,7 +371,7 @@ header .mobile {
 }
 
 @media only screen and (max-width: 760px) {
-  #quotes-section content {
+  #quotes-section .content {
     padding: 1.875rem .625rem;
   }
 
@@ -385,7 +385,7 @@ header .mobile {
     padding-top: 1rem;
     margin: auto;
   }
-  #quotes-section .content .center {
+  #quotes-section .content{
     padding: 5rem 0;
   }
 
